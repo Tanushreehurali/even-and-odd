@@ -1,6 +1,5 @@
 import sys
 
-..
 if len(sys.argv) > 1:
     script_name = sys.argv[0]
     numbers = [int(x) for x in sys.argv[1:]]
